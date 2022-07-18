@@ -1,0 +1,6 @@
+#Build output
+build
+node_modules
+
+build/*.js
+build/*.map
